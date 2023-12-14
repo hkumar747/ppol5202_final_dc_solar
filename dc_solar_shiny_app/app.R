@@ -18,7 +18,7 @@ library(gifski)
 # DATA CREATION
 #############################################################
 #1. load solar data
-
+#setwd
 
 solar_build <- read_rds("solar_build.rds")
 solar_build_cama <- read_rds("build_solar_cama.rds")
