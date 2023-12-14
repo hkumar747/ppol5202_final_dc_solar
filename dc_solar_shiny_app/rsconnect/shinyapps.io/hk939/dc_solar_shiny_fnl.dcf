@@ -1,0 +1,12 @@
+name: dc_solar_shiny_fnl
+title: dc_solar_shiny_fnl
+username: hk939
+account: hk939
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10795575
+bundleId: 8047552
+url: https://hk939.shinyapps.io/dc_solar_shiny_fnl/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
